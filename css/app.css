@@ -35,23 +35,13 @@
         height: 100px;
         border-radius:10px; 
 }
-.works-pain li{
-    line-height: 40px !important ;
-}
-.works-pain p{
-    line-height: 40px !important ;
-}
-.works-bottom{
-    margin-bottom: 40px;
-}
+
 /* about-us */
 /* recruit */
 .recruit_join ul li{
     line-height: 40px;
 }
-.works-recruit p{
-    line-height: 35px !important ;
-}
+
 .zhaoping{
     width: 100%;
 }

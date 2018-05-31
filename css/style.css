@@ -2076,3 +2076,18 @@ i.am-icon-tasks{ display: none;}
 	}
 	.news-ul li{ margin-top: 25px;}
 }
+
+
+/* mine */
+.works-pain li{
+    line-height: 40px !important ;
+}
+.works-pain p{
+    line-height: 40px !important ;
+}
+.works-bottom{
+    margin-bottom: 40px;
+}
+.works-recruit p{
+    line-height: 35px !important ;
+}
