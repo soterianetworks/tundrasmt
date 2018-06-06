@@ -996,7 +996,11 @@ i.am-icon-file-text.file-text {
 }
 
 .gray-li {
-	background-color: #f0eeed;
+	background-color: #cccccc;
+}
+
+.blue-li {
+	background-color: #4f99bd29;
 }
 
 .product-show-ul li {
@@ -1370,8 +1374,10 @@ margin-bottom: 10px;}
 padding-bottom: 25px;
 text-align: left;}
 .company-intro {
-	margin: 0 22%;
-	text-align: center;
+    margin: 0 0%;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px
 }
 
 .company-intro p {
@@ -1414,7 +1420,7 @@ text-align: left;}
 .company-thought li {
 	float: left;
 	text-align: center;
-	margin: 0 10px;
+	margin: 10px 10px;
 }
 
 .thought-all-none:hover {
