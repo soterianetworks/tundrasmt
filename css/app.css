@@ -61,3 +61,7 @@
     line-height: 26px;
     overflow: hidden;
 }
+
+.topBarMargin {
+    margin-top: 0px;
+}

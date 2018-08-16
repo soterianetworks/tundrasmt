@@ -1620,6 +1620,10 @@ text-align: left;}
 		width: 80%;
 		margin-top: 25px;
 	}
+	.part-title{
+		text-align: center !important;
+		position: relative;
+	}
 }
 
 @media only screen and (max-width:1024px) {
@@ -1690,6 +1694,10 @@ text-align: left;}
 	.contact-us div img {
 		width: 80%;
 	}
+	.part-title{
+		text-align: center !important;
+		position: relative;
+	}
 	/*招贤纳士*/
 	.daiyu-title-ul {
 		width: 35% !important;
@@ -1728,6 +1736,12 @@ text-align: left;}
 	.contact-us div img {
 		width: 95%;
 	}
+	.part-title{
+		text-align: center !important;
+		position: relative;
+	}
+
+
 }
 
 @media only screen and (max-width:768px) {
@@ -1744,6 +1758,10 @@ text-align: left;}
 		height: 130px;
 		line-height: 110px;
 		border: 10px solid #f0f0f0;
+	}
+	.part-title{
+		text-align: center !important;
+		position: relative;
 	}
 }
 
@@ -1973,7 +1991,7 @@ i.am-icon-dribbble{ display: none;}
   margin-top: 10px;
 }
 .product-content-left {
-  padding: 0 20px;
+  padding: 13px 20px;
 }
 i.am-icon-tasks{ display: none;}
 .product-content-right {
@@ -1984,6 +2002,10 @@ i.am-icon-tasks{ display: none;}
 	.part-title-mar{
   padding-top: 10px;
   padding-bottom: 5px;
+}
+.part-title{
+	text-align: center !important;
+	position: relative;
 }
 	.paper-plane {
 		font-size: 30px !important;
@@ -2049,7 +2071,7 @@ i.am-icon-tasks{ display: none;}
 	.daiyu-title-ul {
 		margin-top: 20px !important;
 	}
-	.product-img{ margin-top: -20px;}
+	.product-img{ margin-top: -8px;}
 	/*服务中心*/
 	.service-img img {
 		width: 75%;
